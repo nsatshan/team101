@@ -22,8 +22,6 @@ The artifacts you create in this lab will also establish your project teams for 
 
 This lab will be treated as our second "homework" assignment. While each team will submit one final pull request, each person must have a commit in order to earn full credit. The grading rubric is below.
 
----
-
 # Repository Workflow
 
 Go to the instructor's repository at [https://github.com/njit-prof-bill/cs-490-141-summer-lab-1](https://github.com/njit-prof-bill/cs-490-141-summer-lab-1).
@@ -37,8 +35,6 @@ Each teammate will clone the team repository locally.
 Relevant Git commands:
 
 * `git clone`
-
----
 
 # Initial Team Setup
 
@@ -62,8 +58,6 @@ Once the project manager has pushed the initial setup, all teammates should sync
 Relevant Git commands:
 
 * `git pull`
-
----
 
 # Individual Student Work
 
@@ -142,8 +136,6 @@ The final pull request should contain:
 * all student member files
 * visible commit history from all team members
 
----
-
 # Deliverables
 
 Each team must submit:
@@ -167,8 +159,6 @@ One point for each of the following ...
 * Individual information provided
 * Individual commit
 * PR submitted that can be automatically merged
-
----
 
 # Notes
 
