@@ -2,15 +2,15 @@
 
 ## Team Name
 
-Merge Conflict Survivors
+team101
 
 ## Project Manager
 
-Jane Doe
+Omar Sabeha
 
 ## Team Members
 
-- Jane Doe
-- John Smith
-- Alice Johnson
-- Bob Williams
+- Omar Sabeha
+- Jacob Moawad
+- Nada Atshan
+- Roaa ElSayed
