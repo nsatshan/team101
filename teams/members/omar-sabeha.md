@@ -2,7 +2,7 @@
 
 ## My Name
 
-Bill McCann
+Omar Sabeha
 
 ## Favorite Technology
 
@@ -10,10 +10,10 @@ VS Code
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
-- Gaming
+- Art
+- eating
+- coding
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+danny phantom
